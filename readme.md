@@ -16,6 +16,6 @@ My name is Daniel. I am an Analyst and I enjoy finding innovative solutions to c
     * Bachelor of Science - BS, *Computer Science*
 
 * **California State University**
-    * Bachelor of Accounting - BS
+    * Bachelor of Science - BS, *Accounting*
 
   
