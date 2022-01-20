@@ -11,7 +11,8 @@ My name is Daniel. I am a student and analyst and I enjoy finding innovative sol
     * Analyst
 
 ## Education
-* Pending Master of Science - MS, *Computer Science* 
+* **Arizona State University**
+    * Bachelor of Science (Current) - BS, *Computer Science*
 
 * **Oregon State University**
     * Bachelor of Science - BS, *Computer Science*
