@@ -11,8 +11,8 @@ My name is Daniel. I am a student and analyst and I enjoy finding innovative sol
     * Analyst
 
 ## Education
-* **Arizona State University**
-    * Bachelor of Science (Summer 2022) - BS, *Computer Science*
+* **Georgia Institute of Technology**
+    * Master of Science (Fall 2022) - BS, *Computer Science*
 
 * **Oregon State University**
     * Bachelor of Science - BS, *Computer Science*
