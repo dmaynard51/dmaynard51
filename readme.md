@@ -7,6 +7,10 @@ My name is Daniel. I am a student and analyst and I enjoy finding innovative sol
   * Git, Node.js, React, Django, RESTful APIs, Vue.js
 
 ## Experience
+* **Medtronic**
+    * Software Test Engineer
+* **Go2F**
+    * Software Engineer Intern
 * **Rehrig Pacific**
     * Analyst
 
