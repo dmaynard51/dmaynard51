@@ -2,7 +2,7 @@
 My name is Daniel. I am a student and analyst and I enjoy finding innovative solutions to challenging problems. I currently work at Rehrig Pacific Company, and a recent undergrad in Computer Science at OSU; now seeking a masters program in CS.
 
 * **Languages**
-  * Python, JavaScript, HTML, C, C++, SQL
+  * Python, JavaScript, HTML, C, C++, mySQL
 * **Technologies**
   * Git, Node.js, React, Django, RESTful APIs, Vue.js
 
