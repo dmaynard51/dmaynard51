@@ -15,9 +15,6 @@ My name is Daniel. I am a software test engineer at Medtronic and enjoy finding 
     * Analyst
 
 ## Education
-* **Georgia Institute of Technology**
-    * Master of Science (Fall 2022) - BS, *Computer Science*
-
 * **Oregon State University**
     * Bachelor of Science - BS, *Computer Science*
 
