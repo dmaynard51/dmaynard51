@@ -21,7 +21,7 @@
 
 ### 🚀 Featured Projects
 
-**🏕️ [CampSage](https://github.com/dmaynard51/campsage)** &nbsp;·&nbsp; ⭐ 9 &nbsp;·&nbsp; live at [campsage.app](https://campsage.app)
+**🏕️ [CampSage](https://campsage.app)** &nbsp;·&nbsp; live at [campsage.app](https://campsage.app)
 A keyless campsite finder for the Western US + Florida. Surfaces campgrounds with **2–3 consecutive nights open**, ranked closest-to-home, on an interactive map with photos, exact open dates, and booking links. Self-hosted on a mini-PC behind a Cloudflare tunnel, serving real daily traffic; a rotation engine + request caps keep it under source rate limits.
 <br>`Python` · `Flask` · `reverse-engineered reservation APIs` · `Leaflet/OSM`
 
