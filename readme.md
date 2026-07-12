@@ -1,7 +1,7 @@
 <h1 align="center">Daniel M</h1>
 
 <p align="center">
-  <b>Software Engineer · Medical Device Industry</b> · B.S. Computer Science, Oregon State University<br>
+  <b>Software Engineer · Medical Device Industry</b> · B.S. Computer Science<br>
   I build things that ship — from a live campsite-finding web app to classic console games on iOS.
 </p>
 
@@ -62,8 +62,8 @@ The 1990 classic *Ultima VI* (Nuvie engine) ported to iPhone/iPad with native to
 ### 🎓 Education
 
 - **M.S., Computer Science** — *in progress · expected 2026*
-- **Oregon State University** — B.S., Computer Science
-- **California State University** — B.S., Accounting
+- B.S., Computer Science
+- B.S., Accounting
 
 ---
 
