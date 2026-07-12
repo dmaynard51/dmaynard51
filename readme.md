@@ -1,7 +1,7 @@
 <h1 align="center">Daniel Maynard</h1>
 
 <p align="center">
-  <b>Software Engineer @ Medtronic</b> · B.S. Computer Science, Oregon State University<br>
+  <b>Software Engineer · Medical Device Industry</b> · B.S. Computer Science, Oregon State University<br>
   I build things that ship — from a live campsite-finding web app to classic console games on iOS.
 </p>
 
@@ -15,7 +15,7 @@
 
 ### 👋 About
 
-**Software engineer building diabetes medical technology** at Medtronic, with a builder's habit of turning hard problems into real, working products. I like the full range of the stack — reverse-engineering APIs, self-hosting services, and low-level C/C++ — and I ship. Currently pursuing a **Master's in Computer Science** (expected 2026).
+**Software engineer in the medical device industry**, with a builder's habit of turning hard problems into real, working products. I like the full range of the stack — reverse-engineering APIs, self-hosting services, and low-level C/C++ — and I ship. Currently pursuing a **Master's in Computer Science** (expected 2026).
 
 ---
 
@@ -57,7 +57,7 @@ The 1990 classic *Ultima VI* (Nuvie engine) ported to iPhone/iPad with native to
 
 ### 💼 Experience
 
-- **Medtronic** — Software Engineer *(Nov 2024 – Present)* · previously Software Test Engineer — *diabetes medical technology*
+- **Medical Device Industry** — Software Engineer *(Present)* · previously Software Test Engineer
 - **Go2F** — Software Engineer Intern
 - **Rehrig Pacific** — Analyst
 
