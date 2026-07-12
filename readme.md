@@ -1,4 +1,4 @@
-<h1 align="center">Daniel Maynard</h1>
+<h1 align="center">Daniel M</h1>
 
 <p align="center">
   <b>Software Engineer · Medical Device Industry</b> · B.S. Computer Science, Oregon State University<br>
@@ -6,8 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-maynard-168604156"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:daniel.maynard83@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://campsage.app"><img src="https://img.shields.io/badge/Live_Project-campsage.app-2E7D5B?style=flat-square" alt="CampSage"></a>
 </p>
 
@@ -58,8 +56,8 @@ The 1990 classic *Ultima VI* (Nuvie engine) ported to iPhone/iPad with native to
 ### 💼 Experience
 
 - **Medical Device Industry** — Software Engineer *(Present)* · previously Software Test Engineer
-- **Go2F** — Software Engineer Intern
-- **Rehrig Pacific** — Analyst
+- Software Engineer Intern
+- Analyst
 
 ### 🎓 Education
 
